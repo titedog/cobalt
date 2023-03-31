@@ -1,0 +1,14 @@
+str test 1
+see test
+
+test + 2
+see test
+
+test / 3
+see test
+
+test x 3
+see test
+
+test - 1
+see test
